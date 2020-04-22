@@ -1,0 +1,11 @@
+subscription_id: "109e56d8-d599-4905-ab89-be3f6c7e1662"
+resource_group: "trial2"
+workspace_name: "experiment2ml"
+workspace_region: "eastus2"
+
+image_name: ""
+aks_service_name: ""
+aks_name: "aks"
+aks_location: ""
+
+storage_conn_string: ""
